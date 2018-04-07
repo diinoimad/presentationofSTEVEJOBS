@@ -1,0 +1,30 @@
+body{
+    background-image: url('../images/pat.jpg');
+ 
+}
+#patri{
+ position: relative;
+  width: 60%;
+  height: 150%;
+  padding: 15px;
+  margin: 0 auto 5em;
+  margin-top: 5%;
+  border: 1px solid #ddd;
+  background: #FFF;
+  background: linear-gradient(#FFF, #FFF 20%, #EEE 80%, #DDD);
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: 0 0 3px rgba(0,0,0, 0.2);
+}
+#mort{
+	 position: relative;
+  width: 60%;
+  height: 150%;
+  padding: 15px;
+  margin: 0 auto 5em;
+  margin-top: 5%;
+  border: 1px solid white;
+  background: #FFF;
+  background: linear-gradient(#FFF, #FFF 20%, #EEE 80%, #DDD);
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: 0 0 3px rgba(0,0,0, 0.2);
+}

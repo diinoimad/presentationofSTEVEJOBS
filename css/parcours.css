@@ -1,0 +1,47 @@
+.timeline ul li
+{
+	list-style-type: none;
+	position: relative;
+	width: 0.5%;
+	margin : 0 auto;
+	padding-top: 7%;
+	background : #FB6500;
+
+}
+.contenu
+{
+
+	padding: 5%;
+	background-color: white;
+	color: black;
+	width: 250px;
+	position: relative;
+}
+.timeline ul li::after{
+	content: '';
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	transform: translateX(-50%);
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background:inherit;
+
+}
+.timeline ul li:nth-child(even) div{
+
+left:-250px;
+
+}
+.timeline ul li div:hover{
+	opacity: 0.3;
+
+}
+.resume{
+	margin-top: 10%;
+}
+.jeuntitre{
+			text-align: center;
+		}
+		

@@ -1,0 +1,31 @@
+body{
+		background-image: url('../images/stj1.jpg');
+	
+}
+
+.contacte{
+			background-color: #FB6500;
+			background-size: cover;
+			height: 7%;
+			color: white;
+			background-attachment: fixed;
+			margin-top: 42%;
+
+		}
+		.cnt {
+	
+			padding-top: 1%;
+			padding-left: 4%;
+		}
+		.vid{
+			color:white; 
+			text-align: center;  
+			font-size: 160%;
+			margin-left: 2%; 
+			margin-top: 25%;
+		}
+		#vid
+		{
+			border : #FB6500 solid 5px;
+		}
+		

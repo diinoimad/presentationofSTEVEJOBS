@@ -1,0 +1,47 @@
+body{
+    background-image: url('../images/inv.jpg');
+  
+}
+
+#asside{
+  margin-left: 10%;
+  float: left;
+
+
+    height:80%;
+   width: 50%;
+
+
+
+}
+#asside img{
+  width: 200px;
+  height: 200px;
+  
+    
+}
+
+.element{
+  color: white;
+  border : #FB6500 solid 5px;
+  width: 34%;
+
+  text-align: center;
+
+  
+}
+
+
+
+#slideshow {
+  position: relative;
+  width: 30%;
+  height: 150%;
+  padding: 15px;
+  margin: 0 auto 5em;
+  margin-left: 65%;
+  margin-top: 5%;
+  border: 1px solid #ddd;
+  background: #FFF;
+  }
+  
